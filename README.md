@@ -9,8 +9,8 @@
 <hr>
 
 <table border="0">
-<tr>
-<td>
+<tr border="0">
+<td border="0">
 
 - 🌱 I’m currently working at The Coder School as a Coding Instructor.
 - 🎓 I am a self-taught software developer with a passion for coding. 
