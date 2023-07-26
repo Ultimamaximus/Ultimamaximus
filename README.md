@@ -1,8 +1,10 @@
+<div align="center">
 # Hi there👋, I'm Victor Branson
 
 I'm a front-end web developer from the Bay Area.
 
 I have a passion for learning languages, frameworks, and new technologies. I enjoy designing websites and bringing them to life with various technologies.
+</div>
 
 - 🌱 I’m currently working at The Coder School as a Coding Instructor.
 - 🎓 I am a self taught software developer with a passion to code. 
