@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Hi there<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="Wave" width="40" height="40"/>, I'm Victor Branson </h1>
+<h1><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="Wave" width="40" height="40"/> Hi there, I'm Victor Branson </h1>
 
 <h3> I'm a front-end web developer from the Bay Area. </h3>
 
