@@ -8,9 +8,9 @@
 
 <hr>
 
-<table border="0">
-<tr border="0">
-<td border="0">
+<table border="none">
+<tr>
+<td>
 
 <h3 align="center">A little about my journey</h3>
 
