@@ -3,7 +3,7 @@
 
 <h3> I'm a front-end web developer from the Bay Area. </h3>
 
-<p> I have a passion for learning languages, frameworks, and new technologies. I enjoy designing websites and bringing them to life with various technologies. </p>
+<p> I'm a front-end web developer with a passion for learning. My focus is using new technologies to create impactful websites. </p>
 </div>
 
 <hr>
