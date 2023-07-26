@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there👋, I'm Victor Branson
 
-<!--
-**Ultimamaximus/Ultimamaximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end web developer from the Bay Area.
 
-Here are some ideas to get you started:
+I have a passion for learning languages, frameworks, and new technologies. I enjoy designing websites and bringing them to life with various technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently working at The Coder School as a Coding Instructor.
+- 🎓 I am a self taught software developer with a passion to code. 
+- 💻 All my projects are available [here](https://github.com/Ultimamaximus?tab=repositories).
+- ✨ Interests: [YourInterests]
+
+📫 Reach me on:
+
+- [Twitter](YourTwitterLink)
+- [LinkedIn](YourLinkedInLink)
+- [Dev Community](YourDevCommunityLink)
+
+
+
+## Skills
+
