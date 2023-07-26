@@ -17,6 +17,9 @@
 - 💻 All my projects are available [here](https://github.com/Ultimamaximus?tab=repositories).
 - ✨ Interests: Coding, D&D, Video Games
 
+</td>
+<td>
+
 ![Coding GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
 
 </td>
