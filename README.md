@@ -8,23 +8,13 @@
 
 <hr>
 
-<table border="0">
-<tr border="0">
-<td border="0">
-
 - 🌱 I’m currently working at The Coder School as a Coding Instructor.
 - 🎓 I am a self-taught software developer with a passion for coding. 
 - 💻 All my projects are available [here](https://github.com/Ultimamaximus?tab=repositories).
 - ✨ Interests: Coding, D&D, Video Games
 
-</td>
-<td>
-
 ![Coding GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
 
-</td>
-</tr>
-</table>
 
 
 📫 Reach me on:
