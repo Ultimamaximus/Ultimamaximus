@@ -8,8 +8,8 @@
 
 <hr>
 
-<div style="width: 100%;">
-    <div style="float: right; width: 50%;">
+<div style="width: auto;">
+    <div style="float: right;">
         <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
     </div>
     <div style="width: 50%;">
