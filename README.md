@@ -12,6 +12,8 @@
 <tr border="0">
 <td border="0">
 
+<h3>A little about my journey</h3>
+
 - 🌱 I’m currently working at The Coder School as a Coding Instructor.
 - 🎓 I am a self-taught software developer with a passion for coding. 
 - 💻 All my projects are available [here](https://github.com/Ultimamaximus?tab=repositories).
