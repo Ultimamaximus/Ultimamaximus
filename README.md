@@ -8,23 +8,20 @@
 
 <hr>
 
-<table border="0">
-<tr border="0">
-<td border="0">
+<div style="width: 100%;">
+    <div style="float: right; width: 50%;">
+        <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+    </div>
+    <div style="width: 50%;">
+        <ul>
+            <li>🌱 I’m currently working at The Coder School as a Coding Instructor.</li>
+            <li>🎓 I am a self-taught software developer with a passion for coding.</li>
+            <li>💻 All my projects are available <a href="https://github.com/Ultimamaximus?tab=repositories">here</a>.</li>
+            <li>✨ Interests: Coding, D&D, Video Games</li>
+        </ul>
+    </div>
+</div>
 
-- 🌱 I’m currently working at The Coder School as a Coding Instructor.
-- 🎓 I am a self-taught software developer with a passion for coding. 
-- 💻 All my projects are available [here](https://github.com/Ultimamaximus?tab=repositories).
-- ✨ Interests: Coding, D&D, Video Games
-
-</td>
-<td>
-
-![Coding GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
-
-</td>
-</tr>
-</table>
 
 
 📫 Reach me on:
