@@ -8,7 +8,7 @@
 
 <hr>
 
-<img align="right" style="max-width: 80%;" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding GIF">
+<img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding GIF" width="400" height="300">
 
 
 - 🌱 I’m currently working at The Coder School as a Coding Instructor.
