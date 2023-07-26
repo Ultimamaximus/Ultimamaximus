@@ -7,7 +7,7 @@ I have a passion for learning languages, frameworks, and new technologies. I enj
 - 🌱 I’m currently working at The Coder School as a Coding Instructor.
 - 🎓 I am a self taught software developer with a passion to code. 
 - 💻 All my projects are available [here](https://github.com/Ultimamaximus?tab=repositories).
-- ✨ Interests: [YourInterests]
+- ✨ Interests: Coding, D&D, Video Games
 
 📫 Reach me on:
 
