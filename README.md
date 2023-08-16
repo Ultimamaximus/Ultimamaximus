@@ -22,8 +22,8 @@
 📫 Reach me on:
 
 - [Twitter](YourTwitterLink)
-- [LinkedIn](YourLinkedInLink)
-- [Dev Community](YourDevCommunityLink)
+- [LinkedIn](https://www.linkedin.com/in/victor-branson-4b6bab240/)
+- [Dev Community](https://dev.to/ultimamaximus)
 
 
 
