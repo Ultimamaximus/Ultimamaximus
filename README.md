@@ -21,7 +21,7 @@
 
 📫 Reach me on:
 
-- [Twitter](YourTwitterLink)
+- [Personal Site](https://bespoke-zabaione-d907a8.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/victor-branson-4b6bab240/)
 - [Dev Community](https://dev.to/ultimamaximus)
 
