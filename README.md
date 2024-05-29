@@ -17,9 +17,10 @@
 
 📫 Reach me on:
 
-- <a href="https://victorbportfolio.netlify.app/" target="_blank">Personal Site</a>
-- <a href="https://www.linkedin.com/in/victor-branson-4b6bab240/" target="_blank">LinkedIn</a>
-- <a href="https://dev.to/ultimamaximus" target="_blank">Dev Community</a>
+- <a href="https://victorbportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Personal Site</a>
+- <a href="https://www.linkedin.com/in/victor-branson-4b6bab240/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- <a href="https://dev.to/ultimamaximus" target="_blank" rel="noopener noreferrer">Dev Community</a>
+
 
 ## Skills
 
